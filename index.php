@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 Lopws D18-TH02
 
+=======
+aaaaaaaa
+>>>>>>> 96dcf9cd3d89d90fc5e3d6b1aacc6b02b599e615
 <!--A Design by W3layouts 
 Author: W3layout
 Author URL: http://w3layouts.com
